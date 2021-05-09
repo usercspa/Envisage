@@ -1,0 +1,95 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Montserrat;
+  line-height: 1.5em;
+  background-color: #222222;
+  color: #fefefe;
+  text-align: center;
+}
+
+button {
+  font-family: Montserrat;
+  font-size: 18px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.logo {
+  width: 162px;
+  height: auto;
+  left: 72px;
+  top: 20px;
+  float: left;
+  padding: 10px;
+}
+
+.action {
+  float: right;
+  background-color: #333333;
+  color: #fefefe;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+  border-radius: 8px;
+  padding: 20px;
+  top: 20px;
+}
+
+#url {
+  background: #3B3B3B;
+  border: 1px solid #333333;
+  box-sizing: border-box;
+  border-radius: 16px;
+  color: #fefefe;
+  padding: 15px;
+  width: 30%;
+  float: center;
+}
+
+
+.container {
+  color: #fefefe;
+  font-size: 24px;
+  padding: 15px; 
+}
+
+a, title {
+  color: #0fe;
+  padding: 15px; 
+
+}
+
+.cover {
+  width: 50%;
+  height: auto;
+  padding: 20px;
+  border-radius: 48px;
+}
