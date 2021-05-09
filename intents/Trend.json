@@ -1,0 +1,35 @@
+{
+  "id": "c957b97f-f8f9-4f0f-b9de-ea0f62428e54",
+  "name": "Trend",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Asian Americans and Pacific Islanders, around 17.6% of violent incidents are comprised of young (0-17 years old) and old (60 years old and older) victims. Out of the known Asian nationalities, Chinese individuals have reported more hate incidents (43.7%) than any other race or ethnicity."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

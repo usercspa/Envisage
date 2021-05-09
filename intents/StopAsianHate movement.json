@@ -1,0 +1,35 @@
+{
+  "id": "22493138-8d16-422c-9c09-ceb78cb96100",
+  "name": "StopAsianHate movement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In short, a response to the hatred Asian people are currently facing. The hashtag is being used globally to show support and solidarity with the Asian community.\n\nMany victims, particularly the elderly, are being attacked in supermarkets and on the street. Heartbreaking videos are circling on social media showing elderly Asian victims sobbing after experiencing vicious hate crimes.\n\nRise in such hate crime seems to have spiked since the beginning of the pandemic, although exactly why remains unclear. Some believe it’s because COVID-19 originated from China."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

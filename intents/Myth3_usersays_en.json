@@ -1,0 +1,104 @@
+[
+  {
+    "id": "260a47b6-cd4c-4330-ad31-d14da8d92b75",
+    "data": [
+      {
+        "text": "why cant they Go back to ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0424c3ca-e5fd-45b5-aa54-0fdd12c64afe",
+    "data": [
+      {
+        "text": "I told the asians Go back to where you came from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e67b4a11-763b-4560-81ea-132b328a9db0",
+    "data": [
+      {
+        "text": "Go back to where you came from why is this wrong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "681d9028-94f3-4022-a7c7-e73fe3bc7f41",
+    "data": [
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " for Amercians not ",
+        "userDefined": false
+      },
+      {
+        "text": "asians",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab9013b-8e62-457d-96fa-06d591feb74c",
+    "data": [
+      {
+        "text": "US",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " for Americans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca8f159f-7395-4b96-89b7-f3487c2f080d",
+    "data": [
+      {
+        "text": "\u0027Germany for the Germans\u0027, \u0027Turkey for the Turks\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

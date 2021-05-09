@@ -1,0 +1,35 @@
+{
+  "id": "f25a5eea-49ba-4f60-8209-edff7271ce1e",
+  "name": "Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Recommended readings: \nAmerica’s long history of scapegoating its Asian citizens (https://www.nationalgeographic.com/history/article/asian-american-racism-covid);\nCoronavirus: What attacks on Asians reveal about American identity (https://www.bbc.co.uk/news/world-us-canada-52714804);\nSpit On, Yelled At, Attacked: Chinese-Americans Fear for Their Safety (https://www.nytimes.com/2020/03/23/us/chinese-coronavirus-racist-attacks.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

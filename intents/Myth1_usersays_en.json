@@ -1,0 +1,67 @@
+[
+  {
+    "id": "271740a0-3710-4963-b752-87e1f0de7dbc",
+    "data": [
+      {
+        "text": "Asians are different from ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f82171b-dfdc-4d2e-b522-9485a904eae4",
+    "data": [
+      {
+        "text": "asian got different dna from us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1365294-e3d5-49b8-b0bb-d60f79e7b168",
+    "data": [
+      {
+        "text": "The DNA of ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color1",
+        "userDefined": false
+      },
+      {
+        "text": " people and asian  is completely different",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

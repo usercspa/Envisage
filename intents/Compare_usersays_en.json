@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cd4eebd4-04ff-4e6c-96a6-28669c6779e5",
+    "data": [
+      {
+        "text": "how is this compare to other crimes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c520bce-7885-43d1-9be2-b5449185bd77",
+    "data": [
+      {
+        "text": "how is asian hate compare to other",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fbcac6a-f6c5-4858-8119-96594b12bbec",
+    "data": [
+      {
+        "text": "How has Anti-Asian hate crimes compared to hate crimes of other races, religions, ethnicities, or sexual orientation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

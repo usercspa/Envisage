@@ -1,0 +1,35 @@
+{
+  "id": "4231ec1f-244b-481d-ad96-2f0f937bbc77",
+  "name": "Compare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If we were to look at the 5-year period between 2014 to 2019, we believe that the rise of Anti-Asian hate crimes is very surprising. However, considering the socioeconomic situation that many Americans today are hindered by COVID-19, it is not surprising to see that Asians in the U.S. are discriminated heavily for being Asian. Compared to Anti-LGBTQ+ or Anti-Black hate crimes (which are more common), Anti-Asian hate crimes are increasing in an exponential rate but minimal compared to other hate crimes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

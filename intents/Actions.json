@@ -1,0 +1,35 @@
+{
+  "id": "8b2af1ba-0bd2-497d-92ae-0dd5c56c0628",
+  "name": "Actions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Many organizations such as Stop AAPI Hate, The Asian Pacific Policy and Planning Council (A3PCON), Chinese for Affirmative Action (CAA), and the Department of Asian American Studies (AAS) of San Francisco State University, have all received donations or financial aid to fund a number of goals, including to implement policy that protects Asian Americans from discrimination, to encourage academic research into the history of discrimination faced by Asian Americans, and donating to Asian Americans who have been heavily affected by such hate crimes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

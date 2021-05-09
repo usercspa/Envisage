@@ -1,0 +1,28 @@
+[
+  {
+    "id": "079565e2-7c77-459b-ae24-7e6b9727aa11",
+    "data": [
+      {
+        "text": "what have been done so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "117f21b2-010f-4787-b1a3-6e8cd3530828",
+    "data": [
+      {
+        "text": "What actions have been done to combat Anti-Asian hate crimes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

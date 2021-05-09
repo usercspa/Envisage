@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e9d8dcea-abea-45d4-9c69-567e6cbd0c86",
+    "data": [
+      {
+        "text": "what is the trend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a056cb8-cbcc-4530-9c3c-5025cfd6c841",
+    "data": [
+      {
+        "text": "tell me about the trend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d7069cc-8356-4ac9-8426-d16819396b9d",
+    "data": [
+      {
+        "text": "What are some national trends in terms of Anti-Asian Hate Crimes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dd5f9e88-7933-4654-85d4-7a5aaf1f4532",
+    "data": [
+      {
+        "text": "I want to know more about asian hate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "701fa474-4081-47cf-8aeb-2d3d3535fe00",
+    "data": [
+      {
+        "text": "tell me about asian hate crimes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abd7b778-cb89-461b-9a66-74e8338d8662",
+    "data": [
+      {
+        "text": "What are Anti-Asian hate crimes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

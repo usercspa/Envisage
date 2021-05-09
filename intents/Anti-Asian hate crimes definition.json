@@ -1,0 +1,35 @@
+{
+  "id": "892496d4-4272-49a4-98f4-3ccc0eeb426a",
+  "name": "Anti-Asian hate crimes definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anti-Asian hate crimes are violent actions taken against people of Asian or Pacific Islander descent. Actions include, but are not limited to, verbal abuse, phsyical assault, vandilism, civil rights violations, and online harrassment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ac09aebf-dd1c-4f6c-899e-fc8fe6c0b033",
+  "name": "Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing? You can ask me anything about Anti-Asian hate",
+            "Hello! How can I help you? You can ask me anything about Anti-Asian hate",
+            "Good day! What can I do for you today? You can ask me anything about Anti-Asian hate",
+            "Greetings! How can I assist? You can ask me anything about Anti-Asian hate"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

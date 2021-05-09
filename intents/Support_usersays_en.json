@@ -1,0 +1,54 @@
+[
+  {
+    "id": "8a8f56ea-2a19-409e-8690-5b91eb521fe9",
+    "data": [
+      {
+        "text": "support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a5108e3-968b-446e-9cfd-d4d715bb6d59",
+    "data": [
+      {
+        "text": "I wanna help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c7908c8-e005-4291-a122-ae0ed634ec7d",
+    "data": [
+      {
+        "text": "how to show support ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5957218-4fbd-406a-8f53-52a4fc42bb1a",
+    "data": [
+      {
+        "text": "what can I do to help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

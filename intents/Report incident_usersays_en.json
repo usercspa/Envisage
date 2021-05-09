@@ -1,0 +1,168 @@
+[
+  {
+    "id": "dbf5101f-001b-46cc-ac3d-32bec43903aa",
+    "data": [
+      {
+        "text": "I need help, I got hit by someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "176c56ad-ca32-45cb-9510-22182cfd3e1d",
+    "data": [
+      {
+        "text": "how can i help if something like this happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0215cdd4-b7ce-4533-96f4-a5873a8a2d5b",
+    "data": [
+      {
+        "text": "what should I do when I saw a related incdident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3703f07c-7dd5-4e5a-b344-3704af490254",
+    "data": [
+      {
+        "text": "I heard my fellow classmate verbal abused an asian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f35bc499-7ce5-4fb5-a6c9-c4c5e84b7c3a",
+    "data": [
+      {
+        "text": "black",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " attack asian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c731a05-cf35-4106-a84d-c10157173f0d",
+    "data": [
+      {
+        "text": "I saw a ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " man hitting an old asian lady",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fde7b666-128f-422c-9b6a-c7e65d3fc048",
+    "data": [
+      {
+        "text": "Asian hate incident",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9099692-6675-4e9d-a3d6-c630ce4999be",
+    "data": [
+      {
+        "text": "I spotted an incident ",
+        "userDefined": false
+      },
+      {
+        "text": "this Friday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " Town",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ee624b-1f48-4484-a1a9-41f6afedf9ac",
+    "data": [
+      {
+        "text": "how to report an incident?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "919f9ef5-3a25-49b5-b761-724a3ecff2c1",
+    "data": [
+      {
+        "text": "My friend is involved in an incident, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

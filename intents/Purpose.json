@@ -1,0 +1,35 @@
+{
+  "id": "3d3dc01d-ea86-4ba6-b3d9-1a83788678e7",
+  "name": "Purpose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Envisage is a platform for spreading awareness of Anti-Asian hate. Through the publication of unique Asian cultural assets and facts/figures that depict the obstacles and burdens past and present Asian Americans face, we will spotlight Asian Americans who have created a positive impact for their own community. Specifically, we hope to highlight the personal achievements of alumni and currents students of UT Computer Science to promote Asian American identity."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

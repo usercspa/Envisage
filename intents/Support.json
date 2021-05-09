@@ -1,0 +1,35 @@
+{
+  "id": "97cf5c87-fa8d-45c9-bcf1-2c9521bf22e6",
+  "name": "Support",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are 3 ways to stand in solidarity with the Stop Asian Hate movement:\n\n1. Share on social media to open the conversation\n\n2. Support people of colour and don\u0027t question racism and hate \n\n3. Call out racism and have those difficult conversations with your racist family members."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
