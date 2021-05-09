@@ -2,7 +2,7 @@
 
 ## Setup 
 
-1. Download the files (intents, package.json and agent.json)
+1. Download the files (intents, package.json and agent.json) in chatbot folder
 2. Import to Dialogflow 
 3. Edit as you wish! 
 
